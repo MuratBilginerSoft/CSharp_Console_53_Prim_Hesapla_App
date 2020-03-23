@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\bin\Debug\Project 6 Prim Hesapla App.exe.config
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\bin\Debug\Project 6 Prim Hesapla App.exe
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\bin\Debug\Project 6 Prim Hesapla App.pdb
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\obj\Debug\Project 6 Prim Hesapla App.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\obj\Debug\Project 6 Prim Hesapla App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\obj\Debug\Project 6 Prim Hesapla App.exe
+C:\Users\mrt_b\source\repos\Project 6 Prim Hesapla App\Project 6 Prim Hesapla App\obj\Debug\Project 6 Prim Hesapla App.pdb
